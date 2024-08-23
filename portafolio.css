@@ -1,0 +1,149 @@
+section{
+    border: 1px solid rgb(185, 60, 148);
+    background-color: rgb(211, 152, 171);
+
+}
+header{
+    
+    height: 20vh; 
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    
+    border: 1px solid black;
+}
+.menu1{
+    display: flex;
+    justify-content: space-evenly ;
+}
+.menuprincipal{
+    height: 50%;
+    width: 100%;
+}
+.item{
+    list-style: none;
+}
+    
+main{
+    border: 1px solid rgb(236, 3, 3); 
+    height: 90vh; 
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    
+    
+}
+.parrafos{
+    border:  1px solid black;
+}
+.estudios{
+    border:  1px solid black;
+}
+.proyectos{
+    border:  1px solid black;
+}
+
+    
+
+
+nav{
+
+    border: 1px solid rgb(255, 255, 255); 
+    height: 100%; 
+    width: 100%;
+    
+    background-color: rgb(179, 166, 207);
+    text-align: center;
+
+}
+
+
+footer{
+    border: 1px solid rgb(51, 214, 200); 
+    
+    background-color: rgb(11, 11, 11);
+    display: flex;
+    
+    
+    
+    
+}
+.sobre_mi{
+    width: 20%;
+    height: 100%;
+}
+.seccionmain1{
+    width: 50%;
+    height: 100%;
+    padding: 1px;
+}
+.seccion1{
+    width: 100%;
+    height: 100%;
+}
+.seccionmain{
+    width: 50%;
+    height: 100%;
+    padding: 1px;
+}
+.estudios{
+    height: 30%;
+}
+.proyectos{
+    height: 20%;
+}
+.galeria{
+    height: 30%;
+}
+.contactoss{
+    width: 50%;
+    height: 90%;
+    border: 1px solid black;
+    padding: 5px;
+}
+.contactosss{
+    width: 50%;
+    height: 90%;
+    border: 1px solid black;
+    padding: 5px;
+}
+.otrosmain{
+    width: 50%;
+    height: 100%;
+    padding: 1px;
+}
+.color{
+    background-color: black;
+    height: 70%;
+    width: 70%;
+    margin-left: 15%;
+}
+.fotodallany{
+    height: 25%;
+    width: 30%;
+    margin-left: 30%;
+    border: 1px solid black;
+    
+}
+.parrafos{
+    text-align: center;
+    padding: 5px;
+}
+.tabla1{
+    width: 70%;
+    height: 30%;
+    justify-content: center;
+    text-align: center;
+    margin-left: 15%;
+}
+.border1{
+    border: 5px solid black;
+    text-align: center;
+    margin-left: 25%;
+    justify-content: center;
+}
+.articlefoto{
+    width: 90%;
+}
+.b{
+    margin-right: 50%;
+}
